@@ -7,3 +7,6 @@ On clicking on search menu of navbar, You will redirected to the searchPage.
 There are two option to search. You can search with the SEARCH BY QUERIES OR SEARCH BY TAGS.
 You will get the matched result. 
 Click on the ShowAll Queries to see all the saved Queries on localStorage.
+
+
+DEPLOY LINK:- https://queryquesti.herokuapp.com/
